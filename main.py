@@ -1,5 +1,6 @@
 import os
 import time
+import pygame
 from gtts import gTTS
 import streamlit as st
 import speech_recognition as sr
